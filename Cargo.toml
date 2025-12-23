@@ -1,0 +1,13 @@
+[package]
+name = "progrs-bar"
+version = "0.1.0"
+authors = ["Ben Xu"]
+edition = "2024"
+license = "MIT"
+description = "Some useful bucketing for command line progress bars"
+readme = "README.md"
+repository = "https://github.com/AlterionX/progrs-bar"
+
+[dependencies.crossterm]
+version = "0.26.1"
+
